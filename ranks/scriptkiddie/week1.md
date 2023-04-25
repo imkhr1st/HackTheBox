@@ -24,6 +24,8 @@
 | Three   | Very Easy    | 4/24/2023      | add later |
 
 # Day 2 - 4/25/2023
+| Box Name | Difficulty | Date Completed | Description |
+|---------|-----------|----------------|-------------|
 | Ignition   | Very Easy     | 4/24/2023      | add later |
 | Bike   | Very Easy     | 4/24/2023      | add later |
 | Funnel  | Very Easy    | 4/24/2023     | add later |
